@@ -1,8 +1,4 @@
-# PoC: Google Sheets
-Integração com a API do Google Sheets para leitura e gravação de dados.
+Estudo de Integração com a API do Google Sheets para leitura, gravação e deleção de dados.
 
 ## Usage/Examples
 - É necessário ter o arquivo de credenciais na raiz do projeto nomeado como `credentials.json`.
-
-## Author
-Alexandre Bekor
